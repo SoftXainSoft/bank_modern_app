@@ -16,7 +16,9 @@ const GetStarted = () => (
       </div>
       <div>
         <p className="font-poppins font-medium text-[16px] leading-[23px]">
-          <span className="text-gradient   ">children's books</span>
+          <span className="text-gradient   ">
+            children's <br /> books
+          </span>
         </p>
       </div>
     </div>

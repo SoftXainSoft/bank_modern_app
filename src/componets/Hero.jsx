@@ -16,7 +16,7 @@ const Hero = () => (
       </div>
 
       <div className="flex flex-row justify-between items-center w-full">
-        <h1 className="flex-1 font-poppins font-semibold ss:text-[48px] text-[48px] text-white ss:leading-[100px] leading-[75px]">
+        <h1 className="flex-1 font-poppins font-semibold ss:text-[48px] text-[32px] text-white ss:leading-[100px] leading-[75px]">
           Create unique
           <br className="sm:block hidden" />{" "}
           <span className="text-gradient text-[48px]"> children's books</span>
@@ -25,7 +25,7 @@ const Hero = () => (
         <GetStarted />
       </div>
 
-      <h1 className=" font-poppins font-semibold ss:text-[68px] text-[48px] text-white ss:leading-[100px] leading-[75px] w-full">
+      <h1 className=" font-poppins font-semibold ss:text-[68px] text-[32px] text-white ss:leading-[100px] leading-[75px] w-full">
         with the help of AI.
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>

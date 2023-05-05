@@ -28,16 +28,18 @@ const Business = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the business,
-          <br className="sm:block hidden" /> we’ll handle the money.
+          You can enjoy,
+          <br className="sm:block hidden" /> we'll take care of the rest.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, you can improve your financial life by
-          building credit, earning rewards and saving money. But with hundreds
-          of credit cards on the market.
+          With Unique, you can create a one-of-a-kind book for your child and
+          leave the rest to us. Our platform takes care of everything, from
+          generating a personalized story to creating custom illustrations, so
+          you can sit back and enjoy the joy on your child's face as they read
+          their very own unique book.
         </p>
 
-        <Button styles="mt-10" />
+        <Button styles="mt-10 rounded-full" />
       </div>
 
       <div className={`${layout.sectionImg} flex-col`}>

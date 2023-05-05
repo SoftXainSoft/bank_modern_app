@@ -10,30 +10,29 @@ const Hero = () => (
       <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
         <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
         <p className={`${styles.paragraph} ml-2`}>
-          <span className="text-white">20%</span> Rabatt auf{" "}
-          <span className="text-white">Die 1 Buch</span> Gestaltung!
+          <span className="text-white">20%</span> Discount For{" "}
+          <span className="text-white">1 Book</span> creation.
         </p>
       </div>
 
       <div className="flex flex-row justify-between items-center w-full">
-        <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
-          Erstelle
+        <h1 className="flex-1 font-poppins font-semibold ss:text-[48px] text-[48px] text-white ss:leading-[100px] leading-[75px]">
+          Create unique
           <br className="sm:block hidden" />{" "}
-          <span className="text-gradient">individualisierte</span>
+          <span className="text-gradient text-[48px]"> children's books</span>
         </h1>
         <div className="ss:flex hidden md:mr-4 mr-0" />
         <GetStarted />
       </div>
 
-      <h1 className=" font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
-        Kinder Bücher.
+      <h1 className=" font-poppins font-semibold ss:text-[68px] text-[48px] text-white ss:leading-[100px] leading-[75px] w-full">
+        with the help of AI.
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Willkommen bei unserem einzigartigen Service zur Erstellung von
-        personalisierten Kinderbüchern! Wir glauben, dass jedes Kind einzigartig
-        ist und seine eigene Geschichte verdient hat. Deshalb haben wir eine
-        Plattform geschaffen, die es Ihnen ermöglicht, ein Buch zu erstellen,
-        das speziell für Ihr Kind geschrieben wurde.
+        Welcome to "UNIQUE", our unique service for creating personalized
+        children's books! We believe that every child is special and deserves
+        their own story - that's why we've developed a platform that allows you
+        to create a book specifically tailored to your child.
       </p>
     </div>
 

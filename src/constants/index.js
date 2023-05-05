@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Unique",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The only website that creates truly personalized children's books a dream has come true.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We take proactive steps make sure your information are secret and secure.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Easy to use",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Step by step, we will guide you through the simple process. Create your children's book today.",
   },
 ];
 
@@ -88,17 +88,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Neue Nutzer",
+    title: "User",
     value: "12.000+",
   },
   {
     id: "stats-2",
-    title: "Erstellte Bücher",
+    title: "Created books",
     value: "9800+",
   },
   {
     id: "stats-3",
-    title: "Begeisterte Kinder",
+    title: "Excited children",
     value: "7000+",
   },
 ];
